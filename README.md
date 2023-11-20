@@ -30,7 +30,7 @@
 <p>Что нужно было сделать:пересчитать план найма преподавателей с учетом новых данных, изменив значения пропускной способности и ретеншена преподавателей.<p>
 <ol>
 
-> <a href="[https://drive.google.com/drive/folders/11HcEeqniyrCMjuwHZ0GLysX0A2SEv-_x](https://docs.google.com/spreadsheets/d/1Xmom1M6rqna4LLQYzucl9AGJf0MFZSof/edit?usp=sharing&ouid=102241337564253402040&rtpof=true&sd=true)">Ссылка на проект</a>
+> <a href="https://docs.google.com/spreadsheets/d/1Xmom1M6rqna4LLQYzucl9AGJf0MFZSof/edit?usp=sharing&ouid=102241337564253402040&rtpof=true&sd=true">Ссылка на проект</a>
 
  
 <p>Выводы:Я делал проект для онлайн школы в качестве показателей я вынес: Средний CPA и средний CAC,Retention, LT, интенсивность.,Стандартную цену 1 урока,
